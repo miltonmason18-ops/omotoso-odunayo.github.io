@@ -1,5 +1,10 @@
 # Omotoso Odunayo Bolaji - Portfolio
 
-Personal portfolio website | Robotics & ROS2 projects | Data Analytics
+Data Analyst & Robotics Enthusiast
 
-Live site: https://miltonmason18-ops.github.io
+**Contact:** omotosoodunayo576@gmail.com  
+**Live site:** https://omotoso-odunayo.github.io
+
+## Projects
+- Nigeria Inflation Tracker - Streamlit + Python
+- ROS2 Projects - Autonomous Navigation
